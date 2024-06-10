@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "userId": "funpik1",
+      "password": "funpik123",
+      "name": "funpik",
+      "email": "funpik@idesignlab.net",
+      "info": {
+        "tier": 6,
+        "topikExpectedRating": 4,
+        "thisWeekStudyTime": 236121,
+        "totalStudyTime": 123400673,
+        "weeklyStudyCount": 2,
+        "totalStudyCount": 50,
+        "readingAccuracyRate": 98.49637307586883,
+        "listeningAccuracyRate": 30.169021245284533,
+        "writingAccuracyRate": 19.89178079840812
+      }
+    },
+    {
+      "userId": "funpik2",
+      "password": "funpik123",
+      "name": "funpik",
+      "email": "funpik@idesignlab.net",
+      "info": {
+        "tier": 9,
+        "topikExpectedRating": 4,
+        "weeklyStudyTime": 21945801,
+        "totalStudyTime": 203507085,
+        "weeklyStudyCount": 2,
+        "totalStudyCount": 50,
+        "readingAccuracyRate": 78.0883511490961,
+        "listeningAccuracyRate": 74.22584170235069,
+        "writingAccuracyRate": 7.136838680583368
+      }
+    }
+  ]
+}

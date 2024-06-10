@@ -1,0 +1,25 @@
+GET http://localhost:3000/login?userId=funpik1&pass=funpik123 HTTP/1.1
+
+###
+
+POST http://localhost:3000/create_user HTTP/1.1
+content-type: application/json
+
+{
+  "userId": "funpik1",
+  "password": "funpik123",
+  "name": "funpik",
+  "email": "funpik@idesignlab.net"
+}
+
+###
+
+GET http://localhost:3000/check_nickname?userId=otherId HTTP/1.1
+
+###
+
+GET http://localhost:3000/get_user?userId=funpik1 HTTP/1.1
+
+###
+
+GET http://localhost:3000/get_user_info?userId=funpik1 HTTP/1.1
